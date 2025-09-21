@@ -1,0 +1,51 @@
+feature,importance,category
+channel_is_trending_mean_x,0.1837027778514217,Channel Features
+like_count,0.12737035955523257,Engagement Metrics
+comments_total_likes,0.06645918530433492,Engagement Metrics
+like_count_trend_7d,0.058889715874758,Trend Detection
+comment_count,0.05821746344571937,Engagement Metrics
+like_count_trend_normalized_7d,0.0515968827998982,Trend Detection
+comment_count_trend_7d,0.04649422798052887,Trend Detection
+likes_per_day,0.045124715465002095,Engagement Metrics
+comment_count_trend_normalized_7d,0.041965655258230886,Trend Detection
+channel_comment_count_mean,0.041702382419557704,Channel Features
+comment_count_trend_30d,0.028220779618769797,Trend Detection
+early_trend_signal,0.025670711284193494,Trend Detection
+view_count,0.023721032679262406,Engagement Metrics
+comments_per_day,0.023244096729152088,Engagement Metrics
+estimated_days_to_trend,0.02235722733796233,Other
+like_count_trend_normalized_30d,0.021215936117436576,Trend Detection
+early_engagement_indicator,0.012759868370678063,Engagement Metrics
+comment_count_trend_normalized_30d,0.011760657010594474,Trend Detection
+view_count_trend_normalized_7d,0.011019470691190138,Trend Detection
+view_count_trend_7d,0.010859526600373863,Trend Detection
+channel_view_count_mean_x,0.010322986875060289,Channel Features
+comment_count_trend_14d,0.008651539243663374,Trend Detection
+like_count_trend_30d,0.008216422990055235,Trend Detection
+channel_view_count_min,0.007960579132132812,Channel Features
+views_per_day,0.006949358367772028,Engagement Metrics
+comment_count_trend_normalized_14d,0.005469194492541331,Trend Detection
+views_vs_recent_trend,0.003856922826689153,Engagement Metrics
+title_length,0.003580576684956861,Other
+sentiment_compound,0.0030500513135664205,Sentiment Analysis
+like_count_trend_14d,0.002989175796164307,Trend Detection
+channel_like_count_std,0.0025932359053615858,Channel Features
+like_count_trend_normalized_14d,0.002524021193956566,Trend Detection
+view_count_trend_normalized_30d,0.0024185849367126065,Trend Detection
+is_restaurant,0.0023713956958009586,Content Categories
+title_word_count,0.0023644209815229006,Other
+title_has_exclamation,0.002327930605067223,Other
+like_count_ma_7d,0.0021339308592235825,Trend Detection
+view_count_trend_30d,0.0019622187990452748,Trend Detection
+category_id,0.0015893451586144894,Other
+comment_count_ma_7d,0.0014388093704720347,Trend Detection
+optimal_timing_score,0.0012478229025120117,Trend Detection
+comment_count_ma_30d,0.001144177187201996,Trend Detection
+comment_count_ma_14d,0.0008072646426201431,Trend Detection
+view_count_ma_7d,0.0007532325906713035,Trend Detection
+like_count_ma_14d,0.0005806918167607711,Trend Detection
+is_street_food,0.00027941349066053505,Content Categories
+posting_time_category_encoded,4.892891963442238e-05,Temporal/Content
+is_review,1.493473858396366e-05,Content Categories
+timing_alignment_signal,1.6008867802733356e-07,Trend Detection
+comments_count_collected,3.088957608085867e-16,Engagement Metrics
